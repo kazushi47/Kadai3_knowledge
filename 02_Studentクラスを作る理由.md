@@ -1,9 +1,4 @@
-# Studentクラス
-
-今回のクラス設計は以下の通りにしてみる。  
-![クラス](https://user-images.githubusercontent.com/61966044/93081738-b2188700-f6ca-11ea-8a29-1509f8be060c.png)  
-  
-## なぜStudentクラス？
+# Studentクラスを作る理由
 結論から言うと、データを管理しやすいから。  
   
 ``Stream<String>``型ですと、``String``しか入らないので面倒です。  
